@@ -1,0 +1,34 @@
+COLUMN				VALUES				NOT_NULL	MISSING_PERCENTAGE	DTYPE
+
+class:				sick-euthyroid,negative		3163		0			int64
+
+age:				continuous,?			2717		14.100537%		int64
+sex:				M,F,?				3090		2.307936%		int64
+on_thyroxine:			f,t				3163		0			int64
+query_on_thyroxine:		f,t				3163 		0			int64
+on_antithyroid_medication:	f,t				3163 		0			int64
+thyroid_surgery:		f,t				3163 		0			int64
+query_hypothyroid:		f,t				3163 		0			int64
+query_hyperthyroid:		f,t				3163 		0			int64
+pregnant:			f,t				3163 		0			int64
+sick:				f,t				3163 		0			int64
+tumor:				f,t				3163 		0			int64
+lithium:			f,t				3163 		0			int64
+goitre:				f,t				3163 		0			int64
+TSH_measured:			f,t				3163 		0			int64
+TSH:				continuous,?			2695		14.796080		float64
+T3_measured:			f,t				3163 		0			int64
+T3:				continuous,?			2468		21.972811		float64
+TT4_measured:			f,t				3163 		0			int64
+TT4:				continuous,?			2914		7.872273		float64
+T4U_measured:			f,t				3163 		0			int64
+T4U:				continuous,?			2915		7.840658		float64
+FTI_measured:			f,t				3163 		0			int64
+FTI:				continuous,?			2916		7.809042		float64
+TBG_measured:			f,t				3163 		0			int64
+TBG:				continuous,?			260		91.779956		float64
+
+
+
+
+
